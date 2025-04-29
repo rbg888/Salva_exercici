@@ -12,7 +12,7 @@ Informació sobre venv
 
 **Amb linux:**
 
-python3 -m venv .venv
+```python3 -m venv .venv´´´
 
 **Amb windows:**
 
