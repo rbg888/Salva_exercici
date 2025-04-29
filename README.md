@@ -6,7 +6,7 @@ Aquest projecte és una aplicació en **Flask** que permet llegir notícies a pa
 ---
 
 ### Entorns Virtuals
-Informació sobre venv
+[Informació sobre venv](https://docs.python.org/es/3/library/venv.html)
 
 #### Per començar a treballar amb un entorn virtual, el primer pas és crear-lo. Per això, obre un terminal integrat des del Visual Code i executa:
 
@@ -39,7 +39,7 @@ Al prompt veuràs que ets dins de l'entorn
 
 `deactivate`
 
-### Finalment, per a Visual Code l'extensió Python Environment Manager facilita la integració entre el Visual Code i l'entorn virtual.
+### Finalment, per a Visual Code l'extensió  [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) facilita la integració entre el Visual Code i l'entorn virtual.
 
 #### Per inicial l'aplicació Flask cal executar des del terminal integrat del Visual Code:
 
