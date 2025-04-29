@@ -16,13 +16,13 @@ Informació sobre venv
 
 **Amb windows:**
 
-`python -m venv .venv´
+`python -m venv .venv`
 
 ####El següent pas és activar-lo. Per això executa:
 
 **Amb linux:**
 
-`source .venv/bin/activate´
+`source .venv/bin/activate`
 
 **Amb Windows:**
 
